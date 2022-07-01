@@ -5,7 +5,7 @@
  *
  * description: print alphabets in a lowercase
  *
- * Retun: return always zero
+ * Return: return always zero
  *
  */
 
