@@ -1,12 +1,11 @@
 #include <stdio.h>
 
 /**
- *
  * main - Entry
  *
  * description: print all possible combinations of single digit numbers
  *
- * return: zero always
+ * Return: zero always
  *
  */
 
