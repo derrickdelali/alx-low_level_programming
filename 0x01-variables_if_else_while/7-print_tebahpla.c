@@ -5,7 +5,7 @@
  *
  * description: print lowecase alphabets in reverse
  *
- * return: Zero always
+ * Return: Zero always
  *
  */
 
