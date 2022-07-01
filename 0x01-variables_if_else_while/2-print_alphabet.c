@@ -11,9 +11,9 @@
 
 int main(void)
 {
-	char i = 'i';
+	char i = 'a';
 
-	for (i = 'i'; i <= 'j'; i++)
+	for (i = 'a'; i <= 'z'; i++)
 	{
 		putchar(i);
 	}
