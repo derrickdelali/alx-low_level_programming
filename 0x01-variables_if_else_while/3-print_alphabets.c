@@ -11,7 +11,8 @@
 
 int main(void)
 {
-	char i = 'a', char j = 'A';
+	char i = 'a';
+	char j = 'A';
 
 	for (i = 'a'; i <= 'z'; i++)
 	{
