@@ -1,12 +1,11 @@
 #include <stdio.h>
 
 /**
- *
  * main - Entry
  *
  * description: print numbers of base 10 starting from 0
  *
- * return: always zero
+ * Return: always zero
  *
  */
 
