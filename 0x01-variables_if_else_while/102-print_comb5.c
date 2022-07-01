@@ -1,18 +1,17 @@
 #include <stdio.h>
 
 /**
- *
  * main - entry
  *
  * description: print two two digit numbers combinations
  *
- * return: zero always
+ * Return: zero always
  */
 
 int main(void)
 {
-	int ones = 0,
-	    int tens;
+	int ones = 0;
+	int tens;
 
 	while (ones <= 99)
 	{
