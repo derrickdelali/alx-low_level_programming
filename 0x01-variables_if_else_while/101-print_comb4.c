@@ -18,10 +18,10 @@ int main(void)
 	while (ones <= 9)
 	{
 		tens = 0;
-		while (tens <=9)
+		while (tens <= 9)
 		{
 			hundreds = 0;
-			while (hundreds <=9)
+			while (hundreds <= 9)
 			{
 				if (ones != tens && ones < tens && tens != hundreds && tens < hundreds)
 				{
