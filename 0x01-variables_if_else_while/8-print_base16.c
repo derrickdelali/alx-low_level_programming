@@ -1,12 +1,11 @@
 #include <stdio.h>
 
 /**
- *
  * main - entry
  *
  * description: print all numbers in base 16
  *
- * retun: Always zero
+ * Return: Always zero
  *
  */
 
