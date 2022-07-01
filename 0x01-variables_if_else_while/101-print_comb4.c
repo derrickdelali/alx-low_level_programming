@@ -5,7 +5,7 @@
  *
  * description: print all possible combinations of 3 digit numbers
  *
- * return: Zero always
+ * Return: Zero always
  *
  */
 
