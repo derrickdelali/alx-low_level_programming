@@ -4,7 +4,7 @@
  *
  * Description: A C Program that prints with a printf function.
  *
- * Return: Always return with a zero value
+ * Return: Always return with a 0 value
  */
 int main(void)
 {
