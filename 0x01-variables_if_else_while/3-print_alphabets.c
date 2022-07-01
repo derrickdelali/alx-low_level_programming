@@ -5,14 +5,13 @@
  *
  * Description: Print alphabets in lowercae and uppercase
  *
- * retun: zero always
+ * Return: zero always
  *
  */
 
 int main(void)
 {
-	char i = 'a';
-        char j = 'A';
+	char i = 'a', char j = 'A';
 
 	for (i = 'a'; i <= 'z'; i++)
 	{
