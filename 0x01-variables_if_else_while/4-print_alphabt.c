@@ -1,12 +1,11 @@
 #include <stdio.h>
 
 /**
- *
  * main - Entry
  *
  * description: print alphabets in lowercase
  *
- * retun: zero always
+ * Return: zero always
  *
  */
 
@@ -16,7 +15,7 @@ int main(void)
 
 	for (i = 'a'; i <= 'z'; i++)
 	{
-		if((i != 'e') && (i != 'q'))
+		if ((i != 'e') && (i != 'q'))
 		{
 			putchar(i);
 		}
