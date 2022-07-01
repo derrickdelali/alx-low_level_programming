@@ -1,12 +1,11 @@
 #include <stdio.h>
 
 /**
- *
  * main - entry
  *
  * description: print all possible combinations of two digits
  *
- * return: zero always
+ * Return: zero always
  *
  */
 
@@ -30,5 +29,5 @@ int main(void)
 		}
 	}
 	putchar('\n');
-	return(0);
+	return (0);
 }
