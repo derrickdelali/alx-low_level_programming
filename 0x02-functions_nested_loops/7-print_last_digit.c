@@ -5,15 +5,14 @@
  *
  * @j: Takes input
  *
- * Return: 
+ * Return: i if statement is true
  */
 
 int print_last_digit(int j)
 {
 	int i;
 
-	i = j % 10;
-	
+	i = j % 10;	
 	if (i < 0)
 	{
 		i*= -1;
