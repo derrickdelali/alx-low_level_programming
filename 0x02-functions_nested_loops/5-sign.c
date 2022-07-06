@@ -6,7 +6,7 @@
  * Return: 1 if n is true
  */
 
-int printsign(int n)
+int print_sign(int n)
 {
 	if(n >= 1)
 	{
