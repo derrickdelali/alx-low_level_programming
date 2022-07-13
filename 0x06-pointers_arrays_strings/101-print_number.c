@@ -1,4 +1,4 @@
-#include "mydas.h"
+#include "main.h"
 
 /**
  *print_number - prints integers
