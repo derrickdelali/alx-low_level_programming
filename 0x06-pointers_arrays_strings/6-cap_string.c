@@ -1,4 +1,4 @@
-#include "mydas.h"
+#include "main.h"
 /**
  * cap_string - caps all words of a string
  * @s: string to aps

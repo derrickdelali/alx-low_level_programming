@@ -1,4 +1,4 @@
-#include "mydas.h"
+#include "main.h"
 /**
  * _strncpy - check code
  * @dest : int
