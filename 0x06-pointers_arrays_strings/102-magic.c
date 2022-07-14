@@ -1,9 +1,5 @@
 #include <stdio.h>
-/**
-*print_number - prints integers
-*description: hdvj
-*Return: nothing
-*/
+
 int main(void)
 {
   int n;
