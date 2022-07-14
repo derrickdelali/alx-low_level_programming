@@ -1,16 +1,17 @@
 #include "main.h"
 /**
-* infinite_add -  adds two numbers
-* @n1: first number
-* @n2: second number
-* @r: result
-* @size_r: result lenght
-* Return: sum
-*/
+ * infinite_add -  adds two numbers
+ * @n1: first number
+ * @n2: second number
+ * @r: result
+ * @size_r: result lenght
+ * Return: sum
+ *
+ */
 char *infinite_add(char *n1, char *n2, char *r, int size_r)
+
 {
 /* local variable declaration */
-
 	int i = 0, j = 0, k, l = 0, f, s, d = 0;
 
 	while (n1[i] != '\0')
@@ -33,7 +34,7 @@ char *infinite_add(char *n1, char *n2, char *r, int size_r)
 		else
 			f = 0;
 		if (j >= 0)
-			s = n2[j] - '0;
+			s = n2[j] - '0';
 		else
 			s = 0;
 		r[k] = (f + s + d) % 10 + '0';
@@ -50,4 +51,3 @@ char *infinite_add(char *n1, char *n2, char *r, int size_r)
 	}
 	return (r);
 }
-
