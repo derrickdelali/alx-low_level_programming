@@ -1,3 +1,5 @@
+#include<stdio.h>
+
 int _putchar(char c);
 char *strcat(char *dest, char *src);
 char *strncat(char *dest, char *src, int n);
